@@ -1,0 +1,143 @@
+* {
+  font-family: "Aleo";
+  box-sizing: border-box;
+  margin: 0;
+  color: black;
+  background-color: #dddddd;
+}
+.navbar-items {
+  list-style: none;
+  margin: 0;
+  padding: 0%;
+}
+.navbar-item {
+  padding: 20px 5px;
+  display: inline-block;
+}
+.navbar-link {
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+.contactlist {
+  margin-top: 30px;
+}
+img {
+  display: block;
+  margin: 0%;
+}
+.firstsection {
+  margin: auto 0;
+  max-width: 100%;
+  height: 800px;
+  margin-top: 20px;
+}
+
+.newssection2 {
+  margin: 400px;
+
+  height: 600px;
+  margin-top: 100px;
+}
+
+.box1 {
+  float: left;
+  margin: 100px;
+  width: 300px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.box2 {
+  float: right;
+  margin: 100px;
+  width: 200px;
+  margin-right: 150px;
+  margin-top: 100px;
+}
+.box3 {
+  float: left;
+  margin: 100px;
+  width: 300px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.box4 {
+  float: right;
+  margin: 100px;
+  width: 200px;
+  margin-right: 200px;
+  margin-top: 80px;
+}
+.box5 {
+  float: left;
+  margin: 100px;
+  width: 300px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.boxnews {
+  float: left;
+  margin: auto 0;
+  width: 500px;
+  margin-top: 50px;
+}
+.box6 {
+  float: right;
+  margin: 100px;
+  width: 200px;
+  margin-right: 200px;
+  margin-top: 100px;
+}
+
+.abtsection {
+  float: left;
+  margin: 100px;
+  width: 500px;
+  margin-left: 200px;
+  margin-top: 150px;
+  letter-spacing: 3px;
+  text-align: justify;
+}
+
+.abtimg {
+  margin-top: 50px;
+}
+.p1 {
+  margin-top: 20px;
+}
+.p2 {
+  margin-top: 40px;
+}
+.float-right {
+  float: right;
+}
+.btn {
+  text-decoration: none;
+  padding: 14px 18px;
+  background-color: ;
+  color: black;
+  margin: 20px;
+  border-radius: 3px;
+}
+.btn:hover {
+  background-color: black;
+  color: red;
+  transition: 0.5s;
+}
+footer {
+  padding: 100px;
+  background-color: black;
+  color: #ffffff;
+}
+
+footer > span {
+  display: block;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.videonews {
+  margin-top: 20%;
+  width: 600px;
+}
